@@ -1,2 +1,2 @@
-# iNeuron_assignments
+# Python assignments
 Assignments/Practice questions
